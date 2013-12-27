@@ -1,6 +1,5 @@
 require 'rubygems'
 require 'RMagick'
-require 'debugger'
 include Magick
 
 set :public_folder, 'public'
